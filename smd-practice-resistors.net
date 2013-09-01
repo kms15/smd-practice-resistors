@@ -1,0 +1,731 @@
+# EESchema Netlist Version 1.1 created  Sun 01 Sep 2013 12:51:02 AM UTC
+(
+ ( /5221142B LED-1206 D1 LED
+  ( 1 N-000013 )
+  ( 2 GND )
+ )
+ ( /5221143D LED-1206 D2 LED
+  ( 1 N-000014 )
+  ( 2 GND )
+ )
+ ( /52211446 LED-1206 D3 LED
+  ( 1 N-000015 )
+  ( 2 GND )
+ )
+ ( /5221144F LED-1206 D4 LED
+  ( 1 N-000011 )
+  ( 2 GND )
+ )
+ ( /5221145A LED-1206 D5 LED
+  ( 1 N-000012 )
+  ( 2 GND )
+ )
+ ( /5221161D LED-0805 D6 LED
+  ( 1 N-000005 )
+  ( 2 GND )
+ )
+ ( /5221161C LED-0805 D7 LED
+  ( 1 N-000004 )
+  ( 2 GND )
+ )
+ ( /5221161B LED-0805 D8 LED
+  ( 1 N-000003 )
+  ( 2 GND )
+ )
+ ( /5221161A LED-0805 D9 LED
+  ( 1 N-000001 )
+  ( 2 GND )
+ )
+ ( /52211619 LED-0805 D10 LED
+  ( 1 N-000002 )
+  ( 2 GND )
+ )
+ ( /52211646 LED-0603 D11 LED
+  ( 1 N-000006 )
+  ( 2 GND )
+ )
+ ( /52211647 LED-0603 D12 LED
+  ( 1 N-000007 )
+  ( 2 GND )
+ )
+ ( /52211648 LED-0603 D13 LED
+  ( 1 N-000009 )
+  ( 2 GND )
+ )
+ ( /52211649 LED-0603 D14 LED
+  ( 1 N-000008 )
+  ( 2 GND )
+ )
+ ( /5221164A LED-0603 D15 LED
+  ( 1 N-000010 )
+  ( 2 GND )
+ )
+ ( /52211658 $noname$ D16 LED
+  ( 1 N-000029 )
+  ( 2 GND )
+ )
+ ( /52211657 $noname$ D17 LED
+  ( 1 N-000030 )
+  ( 2 GND )
+ )
+ ( /52211656 $noname$ D18 LED
+  ( 1 N-000028 )
+  ( 2 GND )
+ )
+ ( /52211655 $noname$ D19 LED
+  ( 1 N-000031 )
+  ( 2 GND )
+ )
+ ( /52211654 $noname$ D20 LED
+  ( 1 N-000032 )
+  ( 2 GND )
+ )
+ ( /52211682 $noname$ D21 LED
+  ( 1 N-000027 )
+  ( 2 GND )
+ )
+ ( /52211681 $noname$ D22 LED
+  ( 1 N-000026 )
+  ( 2 GND )
+ )
+ ( /52211680 $noname$ D23 LED
+  ( 1 N-000025 )
+  ( 2 GND )
+ )
+ ( /5221167F $noname$ D24 LED
+  ( 1 N-000024 )
+  ( 2 GND )
+ )
+ ( /5221167E $noname$ D25 LED
+  ( 1 N-000023 )
+  ( 2 GND )
+ )
+ ( /52211675 $noname$ D26 LED
+  ( 1 N-000020 )
+  ( 2 GND )
+ )
+ ( /52211676 $noname$ D27 LED
+  ( 1 N-000019 )
+  ( 2 GND )
+ )
+ ( /52211677 $noname$ D28 LED
+  ( 1 N-000021 )
+  ( 2 GND )
+ )
+ ( /52211678 $noname$ D29 LED
+  ( 1 N-000018 )
+  ( 2 GND )
+ )
+ ( /52211679 $noname$ D30 LED
+  ( 1 N-000022 )
+  ( 2 GND )
+ )
+ ( /522113F3 PIN_ARRAY_2X1 P1 CONN_2
+  ( 1 GND )
+  ( 2 +5V )
+ )
+ ( /52211400 SM1206 R1 R
+  ( 1 +5V )
+  ( 2 N-000013 )
+ )
+ ( /52211406 SM1206 R2 R
+  ( 1 +5V )
+  ( 2 N-000014 )
+ )
+ ( /5221140C SM1206 R3 R
+  ( 1 +5V )
+  ( 2 N-000015 )
+ )
+ ( /52211417 SM1206 R4 R
+  ( 1 +5V )
+  ( 2 N-000011 )
+ )
+ ( /52211420 SM1206 R5 R
+  ( 1 +5V )
+  ( 2 N-000012 )
+ )
+ ( /52211622 SM0805 R6 R
+  ( 1 +5V )
+  ( 2 N-000005 )
+ )
+ ( /52211621 SM0805 R7 R
+  ( 1 +5V )
+  ( 2 N-000004 )
+ )
+ ( /52211620 SM0805 R8 R
+  ( 1 +5V )
+  ( 2 N-000003 )
+ )
+ ( /5221161F SM0805 R9 R
+  ( 1 +5V )
+  ( 2 N-000001 )
+ )
+ ( /5221161E SM0805 R10 R
+  ( 1 +5V )
+  ( 2 N-000002 )
+ )
+ ( /52211641 SM0603 R11 R
+  ( 1 +5V )
+  ( 2 N-000006 )
+ )
+ ( /52211642 SM0603 R12 R
+  ( 1 +5V )
+  ( 2 N-000007 )
+ )
+ ( /52211643 SM0603 R13 R
+  ( 1 +5V )
+  ( 2 N-000009 )
+ )
+ ( /52211644 SM0603 R14 R
+  ( 1 +5V )
+  ( 2 N-000008 )
+ )
+ ( /52211645 SM0603 R15 R
+  ( 1 +5V )
+  ( 2 N-000010 )
+ )
+ ( /5221165D $noname$ R16 R
+  ( 1 +5V )
+  ( 2 N-000029 )
+ )
+ ( /5221165C $noname$ R17 R
+  ( 1 +5V )
+  ( 2 N-000030 )
+ )
+ ( /5221165B $noname$ R18 R
+  ( 1 +5V )
+  ( 2 N-000028 )
+ )
+ ( /5221165A $noname$ R19 R
+  ( 1 +5V )
+  ( 2 N-000031 )
+ )
+ ( /52211659 $noname$ R20 R
+  ( 1 +5V )
+  ( 2 N-000032 )
+ )
+ ( /52211687 $noname$ R21 R
+  ( 1 +5V )
+  ( 2 N-000027 )
+ )
+ ( /52211686 $noname$ R22 R
+  ( 1 +5V )
+  ( 2 N-000026 )
+ )
+ ( /52211685 $noname$ R23 R
+  ( 1 +5V )
+  ( 2 N-000025 )
+ )
+ ( /52211684 $noname$ R24 R
+  ( 1 +5V )
+  ( 2 N-000024 )
+ )
+ ( /52211683 $noname$ R25 R
+  ( 1 +5V )
+  ( 2 N-000023 )
+ )
+ ( /52211670 $noname$ R26 R
+  ( 1 +5V )
+  ( 2 N-000020 )
+ )
+ ( /52211671 $noname$ R27 R
+  ( 1 +5V )
+  ( 2 N-000019 )
+ )
+ ( /52211672 $noname$ R28 R
+  ( 1 +5V )
+  ( 2 N-000021 )
+ )
+ ( /52211673 $noname$ R29 R
+  ( 1 +5V )
+  ( 2 N-000018 )
+ )
+ ( /52211674 $noname$ R30 R
+  ( 1 +5V )
+  ( 2 N-000022 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D7
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D8
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D9
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D10
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D11
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D12
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D13
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D14
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D15
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D16
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D17
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D18
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D19
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D20
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D21
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D22
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D23
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D24
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D25
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D26
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D27
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D28
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D29
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D30
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R14
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R15
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R16
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R17
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R18
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R19
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R20
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R21
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R22
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R23
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R24
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R25
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R26
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R27
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R28
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R29
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R30
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}
