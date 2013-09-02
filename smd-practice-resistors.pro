@@ -1,6 +1,6 @@
-update=Fri 30 Aug 2013 09:50:40 PM UTC
+update=Mon 02 Sep 2013 01:04:06 AM UTC
 version=1
-last_client=kicad
+last_client=pcbnew
 [eeschema]
 version=1
 LibDir=
@@ -68,11 +68,13 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
 [pcbnew]
 version=1
-PadDrlX=320
-PadDimH=600
-PadDimV=600
+PadDrlX=0
+PadDimH=197
+PadDimV=236
 BoardThickness=630
 TxtPcbV=800
 TxtPcbH=600
@@ -98,5 +100,4 @@ LibName8=led
 LibName9=dip_sockets
 LibName10=pga_sockets
 LibName11=valves
-[general]
-version=1
+LibName12=/home/kms15social/git/smd-practice-resistors/SMDin
