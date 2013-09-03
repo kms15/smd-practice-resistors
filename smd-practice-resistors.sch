@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sun 01 Sep 2013 12:51:24 AM UTC
+EESchema Schematic File Version 2  date Tue 03 Sep 2013 12:38:40 AM UTC
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -36,7 +36,7 @@ $Descr A4 11700 8267
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "1 sep 2013"
+Date "3 sep 2013"
 Rev ""
 Comp ""
 Comment1 ""
@@ -201,9 +201,9 @@ Wire Wire Line
 	2150 6200 2150 6250
 Connection ~ 2050 6200
 Text Notes 1350 4700 0    60   ~ 0
-size 0201
+0603 metric\n0201 imperial
 Text Notes 3500 4700 0    60   ~ 0
-size 01005
+0402 metric\n01005 imperial
 Connection ~ 4200 6200
 Wire Wire Line
 	4300 6250 4300 6200
@@ -513,9 +513,9 @@ Wire Wire Line
 	8250 3900 8250 3950
 Connection ~ 8150 3900
 Text Notes 7450 2400 0    60   ~ 0
-size 0402
+1005 metric\n0402 imperial
 Text Notes 5300 2400 0    60   ~ 0
-size 0603
+1608 metric\n0603 imperial
 Connection ~ 6000 3900
 Wire Wire Line
 	6100 3950 6100 3900
@@ -825,9 +825,9 @@ Wire Wire Line
 	4150 3900 4150 3950
 Connection ~ 4050 3900
 Text Notes 3350 2400 0    60   ~ 0
-size 0805
+2012 metric\n0805 imperial
 Text Notes 1400 2400 0    60   ~ 0
-size 1206
+3216 metric\n1206 imperial
 Connection ~ 2100 3900
 Wire Wire Line
 	2200 3950 2200 3900
