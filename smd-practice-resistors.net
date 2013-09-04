@@ -1,4 +1,4 @@
-# EESchema Netlist Version 1.1 created  Sun 01 Sep 2013 12:51:02 AM UTC
+# EESchema Netlist Version 1.1 created  Wed 04 Sep 2013 12:47:01 AM UTC
 (
  ( /5221142B LED-1206 D1 LED
   ( 1 N-000013 )
@@ -60,63 +60,63 @@
   ( 1 N-000010 )
   ( 2 GND )
  )
- ( /52211658 $noname$ D16 LED
+ ( /52211658 SM0402 D16 LED
   ( 1 N-000029 )
   ( 2 GND )
  )
- ( /52211657 $noname$ D17 LED
+ ( /52211657 SM0402 D17 LED
   ( 1 N-000030 )
   ( 2 GND )
  )
- ( /52211656 $noname$ D18 LED
+ ( /52211656 SM0402 D18 LED
   ( 1 N-000028 )
   ( 2 GND )
  )
- ( /52211655 $noname$ D19 LED
+ ( /52211655 SM0402 D19 LED
   ( 1 N-000031 )
   ( 2 GND )
  )
- ( /52211654 $noname$ D20 LED
+ ( /52211654 SM0402 D20 LED
   ( 1 N-000032 )
   ( 2 GND )
  )
- ( /52211682 $noname$ D21 LED
+ ( /52211682 SM0402 D21 LED
   ( 1 N-000027 )
   ( 2 GND )
  )
- ( /52211681 $noname$ D22 LED
+ ( /52211681 SM0402 D22 LED
   ( 1 N-000026 )
   ( 2 GND )
  )
- ( /52211680 $noname$ D23 LED
+ ( /52211680 SM0402 D23 LED
   ( 1 N-000025 )
   ( 2 GND )
  )
- ( /5221167F $noname$ D24 LED
+ ( /5221167F SM0402 D24 LED
   ( 1 N-000024 )
   ( 2 GND )
  )
- ( /5221167E $noname$ D25 LED
+ ( /5221167E SM0402 D25 LED
   ( 1 N-000023 )
   ( 2 GND )
  )
- ( /52211675 $noname$ D26 LED
+ ( /52211675 SM0402 D26 LED
   ( 1 N-000020 )
   ( 2 GND )
  )
- ( /52211676 $noname$ D27 LED
+ ( /52211676 SM0402 D27 LED
   ( 1 N-000019 )
   ( 2 GND )
  )
- ( /52211677 $noname$ D28 LED
+ ( /52211677 SM0402 D28 LED
   ( 1 N-000021 )
   ( 2 GND )
  )
- ( /52211678 $noname$ D29 LED
+ ( /52211678 SM0402 D29 LED
   ( 1 N-000018 )
   ( 2 GND )
  )
- ( /52211679 $noname$ D30 LED
+ ( /52211679 SM0402 D30 LED
   ( 1 N-000022 )
   ( 2 GND )
  )
@@ -184,43 +184,43 @@
   ( 1 +5V )
   ( 2 N-000010 )
  )
- ( /5221165D $noname$ R16 R
+ ( /5221165D SM0402 R16 R
   ( 1 +5V )
   ( 2 N-000029 )
  )
- ( /5221165C $noname$ R17 R
+ ( /5221165C SM0402 R17 R
   ( 1 +5V )
   ( 2 N-000030 )
  )
- ( /5221165B $noname$ R18 R
+ ( /5221165B SM0402 R18 R
   ( 1 +5V )
   ( 2 N-000028 )
  )
- ( /5221165A $noname$ R19 R
+ ( /5221165A SM0402 R19 R
   ( 1 +5V )
   ( 2 N-000031 )
  )
- ( /52211659 $noname$ R20 R
+ ( /52211659 SM0402 R20 R
   ( 1 +5V )
   ( 2 N-000032 )
  )
- ( /52211687 $noname$ R21 R
+ ( /52211687 SMD0201in R21 R
   ( 1 +5V )
   ( 2 N-000027 )
  )
- ( /52211686 $noname$ R22 R
+ ( /52211686 SMD0201in R22 R
   ( 1 +5V )
   ( 2 N-000026 )
  )
- ( /52211685 $noname$ R23 R
+ ( /52211685 SMD0201in R23 R
   ( 1 +5V )
   ( 2 N-000025 )
  )
- ( /52211684 $noname$ R24 R
+ ( /52211684 SMD0201in R24 R
   ( 1 +5V )
   ( 2 N-000024 )
  )
- ( /52211683 $noname$ R25 R
+ ( /52211683 SMD0201in R25 R
   ( 1 +5V )
   ( 2 N-000023 )
  )
